@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/RideForce/static/css/main.6ab96fc9.css",
-    "main.js": "/RideForce/static/js/main.4d13edc4.js",
+    "main.js": "/RideForce/static/js/main.ad988db6.js",
     "static/js/453.a2e87745.chunk.js": "/RideForce/static/js/453.a2e87745.chunk.js",
     "static/media/helmet_4.png": "/RideForce/static/media/helmet_4.6ff2e247ec4f1d6af5d5.png",
     "static/media/logo.png": "/RideForce/static/media/logo.62bda6e870755dd61b80.png",
@@ -48,11 +48,11 @@
     "static/media/pagamento.png": "/RideForce/static/media/pagamento.607b0451fb9ce9e1d016.png",
     "index.html": "/RideForce/index.html",
     "main.6ab96fc9.css.map": "/RideForce/static/css/main.6ab96fc9.css.map",
-    "main.4d13edc4.js.map": "/RideForce/static/js/main.4d13edc4.js.map",
+    "main.ad988db6.js.map": "/RideForce/static/js/main.ad988db6.js.map",
     "453.a2e87745.chunk.js.map": "/RideForce/static/js/453.a2e87745.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6ab96fc9.css",
-    "static/js/main.4d13edc4.js"
+    "static/js/main.ad988db6.js"
   ]
 }
